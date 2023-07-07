@@ -2,7 +2,7 @@
 
 | Tool name | Short description|
 |--------------------------------------------|-----------------------------------------|
-|1.  [Subfinder](https://github.com/projectdiscovery/subfinder)|Fast passive subdomain discovery with search engines and DNS. [Online TooL](https://subdomainfinder.c99.nl/)|
+|1.  [Subfinder](https://github.com/projectdiscovery/subfinder)|Fast passive subdomain discovery with search engines and DNS. |
 |2.  [DNSrecon]()|dnsrecon is an automation tool used for DNS information gathering. It has many features but the one we'll mostly use is its brute force capabilities to try and find subdomains.|
 |3.  [dig/nslookup](https://www.nslookup.io/domains/github.com/dns-records/)|These are separate DNS lookup tools, where "dig" is commonly used on Linux systems, and "nslookup" is available on various operating systems|
 |4.  [Httpx](https://github.com/projectdiscovery/httpx)|A tool for retrieving HTTP responses and gathering information|
