@@ -17,5 +17,10 @@
 
 
 #### This is also my methodology
+
+
 #
-###### [Twitter](https://twitter.com/nazmul_ethi)
+
+###### If you'd like to connect further, I invite you to follow my Twitter account.
+
+[Twitter](https://twitter.com/nazmul_ethi)
