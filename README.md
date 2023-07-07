@@ -10,7 +10,7 @@
 |6.  [Masscan](https://github.com/robertdavidgraham/masscan)|A high-speed port scanner|
 |7.  [eyewitness](https://github.com/RedSiege/EyeWitness)|A tool for capturing screenshots of web pages|
 |8.  [Waybackurls](https://github.com/tomnomnom/waybackurls)|A tool for extracting URLs from the Wayback Machine's archive|
-|9.  [Gospider / hakrawler](https://github.com/jaeles-project/gospider)|Both are web crawling tools used for website enumeration|
+|9.  [Gospider/hakrawler](https://github.com/jaeles-project/gospider)|Both are web crawling tools used for website enumeration|
 |10. [Ffuf](https://github.com/ffuf/ffuf)|A fast web fuzzer|
 |11. [Kiterunner](https://github.com/assetnote/kiterunner)| Kite is a context-based web scanner that uses common API paths for the content discovery of an application API paths|
 
