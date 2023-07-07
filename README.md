@@ -13,3 +13,8 @@
 |9. [Gospider/hakrawler](https://github.com/jaeles-project/gospider)|Both are web crawling tools used for website enumeration|
 |10. [Ffuf](https://github.com/ffuf/ffuf)|A fast web fuzzer|
 |11. [Kiterunner](https://github.com/assetnote/kiterunner)| Kite is a context-based web scanner that uses common API paths for the content discovery of an application API paths|
+
+
+
+This is also my methodology
+[Twitter](https://twitter.com/nazmul_ethi)
